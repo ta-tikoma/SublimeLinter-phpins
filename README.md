@@ -17,3 +17,8 @@ export PATH=~/.composer/vendor/bin:$PATH
 
 - SublimeLinter settings: http://sublimelinter.com/en/latest/settings.html
 - Linter settings: http://sublimelinter.com/en/latest/linter_settings.html
+
+
+## Better
+
+If you want to help me make this package better, then welcome: https://github.com/ta-tikoma/phpins
