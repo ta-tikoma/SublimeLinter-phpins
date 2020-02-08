@@ -8,9 +8,15 @@ This linter plugin for SublimeLinter provides an interface to phpins. It will be
 ```
 composer global require ta-tikoma/phpins-cli
 ```
-3. Make sure composer global bin directory is available in $PATH
+3. Make sure composer global bin directory is available in PATH or in SublimeLinter settings:
 ```
-export PATH=~/.composer/vendor/bin:$PATH
+{
+	"paths": {
+        "linux": [
+        	"~/.config/composer/vendor/bin"
+        ]
+    },
+}
 ```
 
 ## Settings
