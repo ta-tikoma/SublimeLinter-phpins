@@ -6,7 +6,7 @@ This linter plugin for SublimeLinter provides an interface to phpins. It will be
 1. Install [composer](https://getcomposer.org/).
 2. Install `phpins` using below command:
 ```
-composer global require ta-tikoma/phpins-cli
+composer global require ta-tikoma/phpins
 ```
 3. Make sure composer global bin directory is available in PATH or in SublimeLinter settings:
 ```
